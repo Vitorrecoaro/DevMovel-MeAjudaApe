@@ -1,0 +1,9 @@
+[submodule "DevMovel-MeAjudaApe-API"]
+	path = DevMovel-MeAjudaApe-API
+	url = git@github.com:Vitorrecoaro/DevMovel-MeAjudaApe-API.git
+[submodule "DevMovel-MeAjudaApe-Nativo"]
+	path = DevMovel-MeAjudaApe-Nativo
+	url = git@github.com:Vitorrecoaro/DevMovel-MeAjudaApe-Nativo.git
+[submodule "DevMovel-MeAjudaApe-Flutter"]
+	path = DevMovel-MeAjudaApe-Flutter
+	url = git@github.com:Vitorrecoaro/DevMovel-MeAjudaApe-Flutter.git
